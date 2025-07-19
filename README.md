@@ -68,7 +68,7 @@ I implemented modular components, used React Hooks (useEffect, useState) for rea
 
 ## 📸 Output
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 
 
